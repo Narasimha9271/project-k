@@ -5,12 +5,13 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon src/index.js",
+    "dev": "nodemon src/index.js",
     "test": "jest"
   },
   "author": "Narasimha Palla",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
   }
 }
