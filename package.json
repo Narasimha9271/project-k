@@ -1,0 +1,11 @@
+{
+  "name": "project-k",
+  "version": "1.0.0",
+  "description": "A Mega Project backend based",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Narasimha Palla",
+  "license": "ISC"
+}
